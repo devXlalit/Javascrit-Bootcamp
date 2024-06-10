@@ -32,12 +32,12 @@
 // console.log(b);
 
 // var a = 5;
-
+// // less security
 // var a = 12;
 
 // var a = 10
 
-
+// console.log(a)
 
 // let a = 12
 
@@ -48,11 +48,8 @@
 // a = 34
 // console.log(a);
 
+// const PI = 3.14
 
-const PI = 3.14
+// PI = 3.33
 
-PI = 3.33
-
-console.log(PI)
-
-
+// console.log(PI)
