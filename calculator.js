@@ -47,3 +47,8 @@ console.log(day);
 
 
 
+
+
+// Write a program in javascript to check if a number is prime or not.
+
+

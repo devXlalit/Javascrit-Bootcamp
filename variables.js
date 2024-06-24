@@ -2,6 +2,30 @@
 
 // old ES5
 
+// Statically typed - isme apko datatype batana padta hai (ex - java, ++, c)
+// Dynamically typed - value ke according programming language khud decide kar legi ki datatype kya hai. (ex - python, javascript)
+
+a = "shubham";
+console.log(a);
+// ES5
+var a = "Shubham";
+var a = "lalit";
+var a = "new name";
+console.log(a);
+// ES6
+let x = 5;
+x = 12;
+console.log(x);
+
+const PI = 3.14;
+// PI = 12;
+// const PI = 4.5;
+
+console.log(PI);
+
+let y;
+console.log(y);
+
 // var a = 45;
 // var b = "name";
 // var c = 2.5;
